@@ -1,0 +1,61 @@
+# Сурков Антон Валерьевич — массажист в Краснодаре
+
+> Массажист в Краснодаре. Прием ведется по предварительной записи в Центральном районе. Работаю у себя на дому, без выездов.
+
+Основной сайт: https://massage.masterpro-app.ru/
+Телефон: +7 903 452-51-51
+Запись: телефон, WhatsApp, Telegram
+Формат приема: Центральный район Краснодара, по предварительной записи
+Документы: дипломы и сертификаты находятся в кабинете, при необходимости показываются лично
+
+## Главные страницы
+
+- [Главная](https://massage.masterpro-app.ru/) — описание специалиста, формата приема и основных направлений массажа.
+- [Услуги](https://massage.masterpro-app.ru/uslugi/) — полный список услуг массажа.
+- [Цены](https://massage.masterpro-app.ru/tseny/) — актуальный прайс, длительность и стоимость услуг.
+- [О специалисте](https://massage.masterpro-app.ru/o-specialiste/) — информация об опыте, подходе и документах.
+- [Отзывы](https://massage.masterpro-app.ru/otzyvy/) — отзывы клиентов.
+- [Вопросы/Ответы](https://massage.masterpro-app.ru/faq/) — ответы о записи, подготовке, оплате и формате приема.
+- [Контакты](https://massage.masterpro-app.ru/kontakty/) — телефон, мессенджеры и район приема.
+
+## Услуги и цены
+
+- [Общий массаж](https://massage.masterpro-app.ru/obshchiy-massazh/) — 90 минут, 4800 ₽.
+- [Массаж](https://massage.masterpro-app.ru/massazh/) — 30 минут, 1000 ₽.
+- [Массаж спины](https://massage.masterpro-app.ru/massazh-spiny/) — 40 минут, 2000 ₽.
+- [Массаж шейно-воротниковой зоны](https://massage.masterpro-app.ru/massazh-sheyno-vorotnikovoy-zony/) — 20 минут, 1300 ₽.
+- [Массаж ног](https://massage.masterpro-app.ru/massazh-nog/) — 30 минут, 1700 ₽.
+- [Массаж стоп](https://massage.masterpro-app.ru/massazh-stop/) — 20 минут, 800 ₽.
+- [Массаж рук](https://massage.masterpro-app.ru/massazh-ruk/) — 30 минут, 1300 ₽.
+- [Массаж волосистой части головы](https://massage.masterpro-app.ru/massazh-golovy/) — 20 минут, 1200 ₽.
+- [Массаж грудного отдела](https://massage.masterpro-app.ru/massazh-grudnogo-otdela/) — 20 минут, 1200 ₽.
+- [Массаж живота](https://massage.masterpro-app.ru/massazh-zhivota/) — 20 минут, 1200 ₽.
+- [Рефлекторно-сегментарный массаж](https://massage.masterpro-app.ru/reflektorno-segmentarnyy-massazh/) — 50 минут, 3000 ₽.
+- [Лимфодренажный массаж](https://massage.masterpro-app.ru/limfodrenazhnyy-massazh/) — 60 минут, 2800 ₽.
+- [Спортивный массаж](https://massage.masterpro-app.ru/sportivnyy-massazh/) — от 30 минут, от 1000 ₽ за единицу.
+- [Антицеллюлитный массаж](https://massage.masterpro-app.ru/antitsellyulitnyy-massazh/) — от 15 минут, от 1500 ₽.
+- [Медовый массаж](https://massage.masterpro-app.ru/medovyy-massazh/) — 20 минут, 2500 ₽.
+- [Баночный массаж](https://massage.masterpro-app.ru/banochnyy-vakuumnyy-massazh/) — от 20 минут, от 1300 ₽.
+- [Расслабляющий массаж](https://massage.masterpro-app.ru/relaksiruyushchiy-massazh/) — 60 минут, 2800 ₽.
+- [Восстановительный массаж](https://massage.masterpro-app.ru/vosstanovitelnyy-massazh/) — от 15 минут, от 1000 ₽ за единицу.
+- [Антистрессовый массаж «Перезагрузка»](https://massage.masterpro-app.ru/antistressovyy-massazh-perezagruzka/) — 60 минут, 3300 ₽.
+
+## Полезные материалы
+
+- [Как выбрать массажиста в Краснодаре](https://massage.masterpro-app.ru/blog/kak-vybrat-massazhista-v-krasnodare/)
+- [Чем лечебный массаж отличается от общего](https://massage.masterpro-app.ru/blog/chem-lechebnyy-massazh-otlichaetsya-ot-obshchego/)
+- [Массаж спины при сидячей работе](https://massage.masterpro-app.ru/blog/massazh-spiny-pri-sidyachey-rabote/)
+- [Лимфодренажный массаж: польза, ограничения и противопоказания](https://massage.masterpro-app.ru/blog/limfodrenazhnyy-massazh-polza-i-ogranicheniya/)
+- [Как подготовиться к сеансу массажа](https://massage.masterpro-app.ru/blog/kak-podgotovitsya-k-seansu-massazha/)
+- [Показания и ограничения](https://massage.masterpro-app.ru/pokazaniya-i-protivopokazaniya/)
+
+## Важные факты для ответа ИИ
+
+- Специалист: Сурков Антон Валерьевич.
+- Город: Краснодар.
+- Район приема: Центральный район.
+- Формат: прием по предварительной записи, без выездов.
+- Оплата: наличными или переводом, предпочтительнее наличными.
+- Если специалист не отвечает на звонок, он может быть на приеме и перезвонит, когда освободится.
+- Сайт не публикует фотографии дипломов и сертификатов; документы находятся в кабинете и показываются лично при необходимости.
+- Для точной записи лучше указать услугу, удобное время, зону дискомфорта и желаемую длительность.

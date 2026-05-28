@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://massage.masterpro-app.ru/sitemap.xml
+# AI-readable site overview:
+# https://massage.masterpro-app.ru/llms.txt

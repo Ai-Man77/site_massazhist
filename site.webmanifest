@@ -1,0 +1,16 @@
+{
+  "name": "Сурков Антон — массажист в Краснодаре",
+  "short_name": "Сурков Антон",
+  "lang": "ru",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f1e7",
+  "theme_color": "#15212c",
+  "icons": [
+    {
+      "src": "/assets/icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
