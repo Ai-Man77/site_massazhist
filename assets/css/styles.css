@@ -43,3 +43,8 @@
 @media (min-width:1500px){#main>.page-hero+.section>.container.narrow:has(>.faq-list){grid-template-columns:minmax(320px,430px) minmax(0,920px)}}
 @media (max-width:899px){#main>.page-hero+.section>.container.narrow:has(>.faq-list){display:block;max-width:100%!important}#main>.page-hero+.section>.container.narrow:has(>.faq-list)>.section-head{position:static;margin-bottom:1.25rem}#main>.page-hero+.section>.container.narrow:has(>.faq-list)>.section-head h2{max-width:none}#main>.page-hero+.section>.container.narrow:has(>.faq-list) .faq-item summary{padding:.95rem 1rem;font-size:1rem}#main>.page-hero+.section>.container.narrow:has(>.faq-list) .faq-answer{padding:0 1rem 1rem}}
 @media (max-width:420px){#main>.page-hero+.section>.container.narrow:has(>.faq-list) .faq-item summary{grid-template-columns:minmax(0,1fr) 20px;gap:.65rem;font-size:.96rem}#main>.page-hero+.section>.container.narrow:has(>.faq-list) .faq-answer{font-size:.95rem}}
+
+/* Keep the full specialist name without forcing navigation labels to wrap. */
+@media (min-width:1100px){.site-nav a{white-space:nowrap}}
+@media (min-width:1100px) and (max-width:1299px){.site-nav{position:fixed!important;inset:73px clamp(16px,4vw,32px) auto clamp(16px,4vw,32px)!important;display:none!important;flex-direction:column!important;background:var(--milk)!important;padding:1rem!important;border:1px solid var(--line)!important;border-radius:22px!important;box-shadow:var(--shadow)!important}.site-nav.is-open{display:flex!important}.menu-toggle{display:grid!important}.header-actions{display:none!important}}
+@media (min-width:1300px){.site-nav{display:flex!important}.menu-toggle{display:none!important}.header-actions{display:flex!important}}
